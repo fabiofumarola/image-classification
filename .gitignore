@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+cifar-10-batches-py
+checkpoint
+cifar-10-python.tar.gz
+image_*
+preprocess_*
